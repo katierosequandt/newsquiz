@@ -1,5 +1,8 @@
+//Katie was here
+
 /*
  * GDoc-Powered-Quiz
+
  * https://github.com/motherjones/GDoc-Powered-Quiz
  *
  * Copyright (c) 2012 Ben Breedlove
